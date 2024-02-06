@@ -6,9 +6,7 @@
         "build": "vite build"
         {
   "scripts": {
-    "build": "[my-framework] build --output public"
-  }
-}
+    "build": "[my-framework] build --output public
     },
     "devDependencies": {
         "autoprefixer": "^10.4.16",
